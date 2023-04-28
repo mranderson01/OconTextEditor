@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"help","l":"Help"},{"p":"danielocon.ocontexteditor","l":"MainWindow"},{"p":"themes","l":"MiTema"}];updateSearchResults();
